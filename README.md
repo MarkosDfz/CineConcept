@@ -12,7 +12,7 @@ Se usa **Provider** como manejador del estado y se conecta a la api de [TMDB](ht
  4. Correr `flutter run-android` or `flutter run-ios` para compilar el proyecto
 
 **Cosas a considerar:**
-- Para que el proyecto funcione, en el archivo **PeliculasService.dart** hay que ingresar su propia api key en la variable **_apikey**
+- Para que el proyecto funcione, en el archivo **PeliculasService.dart** hay que ingresar su propia api key de la api de **TMDB** en la variable **_apikey**
 - Por favor tenga en cuenta que se requiere una **Mac** con XCode para compilar el proyecto para **iOS**
 
 **Resultado**
