@@ -17,6 +17,6 @@ Se usa **Provider** como manejador del estado y se conecta a la api de [TMDB](ht
 
 **Resultado**
 
-| ![Dfz-Code](https://raw.githubusercontent.com/MarkosDfz/CineConcept/master/resources/cine.gif) | <img src="https://raw.githubusercontent.com/MarkosDfz/CineConcept/master/resources/1.png" height="322"/> |
+| ![Dfz-Code](https://raw.githubusercontent.com/MarkosDfz/CineConcept/master/resources/cine.gif) | <img src="https://raw.githubusercontent.com/MarkosDfz/CineConcept/master/resources/1.png" height="520"/> |
 |--|--|
-| <img src="https://raw.githubusercontent.com/MarkosDfz/CineConcept/master/resources/2.png" height="322"/> |  <img src="https://raw.githubusercontent.com/MarkosDfz/CineConcept/master/resources/3.png" height="322"/>|
+| <img src="https://raw.githubusercontent.com/MarkosDfz/CineConcept/master/resources/2.png" height="520"/> |  <img src="https://raw.githubusercontent.com/MarkosDfz/CineConcept/master/resources/3.png" height="520"/>|
