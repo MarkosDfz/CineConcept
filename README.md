@@ -8,8 +8,8 @@ Se usa **Provider** como manejador del estado y se conecta a la api de [TMDB](ht
 
  1. Tener Flutter en tu equipo, si no lo tienes lo puedes conseguir [aquí](https://flutter.dev/)
  2. Clonar el repositorio
- 3. `cd` en la carpeta de repositorio
- 4. Correr `flutter run-android` or `flutter run-ios` para compilar el proyecto
+ 3. `cd` en la carpeta del repositorio
+ 4. Correr `flutter run-android` o `flutter run-ios` para compilar el proyecto
 
 **Cosas a considerar:**
 - Para que el proyecto funcione, en el archivo **PeliculasService.dart** hay que ingresar su propia api key de la api de **TMDB** en la variable **_apikey**
